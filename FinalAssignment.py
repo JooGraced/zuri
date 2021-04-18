@@ -1,3 +1,4 @@
+
 class Category:
 
     def __init__(self, name):
@@ -38,4 +39,7 @@ class Category:
         if(self.get_balance() >=amount):
             return True
         return False
-        
+#print(food)
+
+
+
